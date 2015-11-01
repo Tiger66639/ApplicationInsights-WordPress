@@ -1,4 +1,5 @@
 === Plugin Name ===
+
 [![Build Status](https://travis-ci.org/Tiger66639/ApplicationInsights-WordPress.svg)](https://travis-ci.org/Tiger66639/ApplicationInsights-WordPress)
 Contributors: ApplicationInsights
 Tags: Application Insights
